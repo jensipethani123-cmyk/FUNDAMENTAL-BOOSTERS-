@@ -1,4 +1,4 @@
-# PR. 1 Fundamental Booster - Personal Data Collector
+# PR. 1 Fundamental Booster 
 
 An interactive Python application designed to collect, process, and display personal user data while demonstrating foundational programming concepts like variables, input/output functions, type casting, built-in functions (`type()`, `id()`), and basic arithmetic operations.
 
